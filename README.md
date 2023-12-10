@@ -25,22 +25,12 @@ This is a simple React slider component that allows you to navigate through a li
 ## Usage
 To use the Slider component in your React application, you can import it and include it in your JSX:
 
-```
-import React from 'react';
-import Slider from './path-to-slider-component/Slider';
+To start the development server, run:
 
-const App = () => {
-  return (
-    <div>
-      {/* Your other components */}
-      <Slider />
-      {/* Your other components */}
-    </div>
-  );
-};
-
-export default App;
 ```
+npm run dev
+```
+Visit http://localhost:3000 in your browser to see the application.
 
 ## Customization
 
